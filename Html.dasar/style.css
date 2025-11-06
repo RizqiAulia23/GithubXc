@@ -1,0 +1,23 @@
+        body {
+            display: block;
+            justify-items: center;
+            align-items: center;
+        }
+        .kotak{
+            display: flex;
+            width: 150px;
+            height: 150px;
+            border: 2px solid black;
+            background-color:aquamarine;
+             justify-content: center;
+            align-items: center;
+        }
+        .container {
+            display: flex;
+            width: 500px;
+            height: 100vh;
+            background-color: ;
+            flex-wrap: wrap;
+            gap: 10px;
+           
+        }
